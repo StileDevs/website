@@ -1,5 +1,7 @@
+<script setup lang="ts"></script>
+
 <template>
   <main>
-    <div class="text-red-500 font-bold">Hello world</div>
+    <header class="flex items-center justify-center py-8 gap-x-4">aawed</header>
   </main>
 </template>
